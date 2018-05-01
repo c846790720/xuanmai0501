@@ -33,8 +33,8 @@ make install
 
 
 yum install git
-git clone https://github.com/1264527381/PUBG_XiNian_0501.git
-cd PUBG_XiNian_0501/
+git clone https://github.com/c846790720/xuanmai0501.git
+cd xuanmai0501/
 npm i
 npm i -g pino
 npm install -g forever
